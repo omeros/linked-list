@@ -1,9 +1,7 @@
 class TextList
 {
     /**
-   * name: omer golan 
-   *id: 043155142
-   *maman 15
+  
    *Class constructor.
    */
   
